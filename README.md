@@ -36,3 +36,11 @@ source venv/bin/activate        # Linux/Mac
 
 # Instalar dependencias
 pip install -r requirements.txt   
+
+## ⚙️ Configuración
+- Regístrate en OpenWeatherMap y obtén tu API key gratuita.
+- Edita el archivo app.py y reemplaza el valor de API_KEY:
+
+**API_KEY = "tu_api_key_aqui"**
+
+
